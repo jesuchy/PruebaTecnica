@@ -1,0 +1,93 @@
+.Section4 {
+  background: rgb(247, 247, 247);
+  background: linear-gradient(
+    0deg,
+    rgba(247, 247, 247, 1) 54%,
+    rgba(253, 187, 45, 0.0028498459930846876) 96%
+  );
+  opacity: 1;
+  margin-top: 161px;
+  min-height: 488px;
+}
+.Section4 h1 {
+  font-family: "Inter", sans-serif;
+  color: #4d4d4d;
+  opacity: 1;
+  font-size: 51px;
+  letter-spacing: 1px;
+  max-width: 20%;
+  margin-left: 66px;
+}
+.Img2719 {
+  position: absolute;
+  margin-left: 57px;
+  margin-top: 11px;
+}
+.Img2197 {
+  position: absolute;
+  margin-left: 379px;
+  max-width: 216px;
+  margin-top: -47px;
+}
+.mt_2 {
+  margin-top: 10px;
+}
+.contenedo2 {
+ 
+  max-width: 1110px;
+  margin-inline: auto;
+  margin-top: 86px;
+}
+.contenedo2 .Cursor{
+  cursor: default;
+}
+.BotonesSec4 {
+  text-align: center;
+}
+.BotonesSec4 .Boton {
+  margin: 13px;
+  border: none;
+  border-radius: 27px;
+  min-height: 48px;
+  background: #ffffff;
+  box-shadow: 4px 4px 0px #999999;
+}
+.BotonesSec4 .BotonS {
+    
+    margin-right: 32px;
+    border-radius: 27px;
+    min-height: 48px;
+    background: #ffffff;
+    border: none;
+    box-shadow: 4px 4px 0px #999999;
+  }
+.BotonesSec4 .Spaci {
+    margin-right:  26px;
+    margin: 13px;
+    border: none;
+    border-radius: 27px;
+    min-height: 48px;
+    background: #ffffff;
+    box-shadow: 4px 4px 0px #999999;
+  }
+
+
+.BotonesSec4 button span {
+  text-align: center;
+  font-family: "Inter", sans-serif;
+  letter-spacing: 0px;
+  color: #707070;
+  opacity: 1;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.Img2202{
+    position: absolute;
+    margin-left: 286px;
+    margin-top: 25px;
+}
+.ImgFinalSection{
+  position: absolute;
+  margin-top: -13px;
+}

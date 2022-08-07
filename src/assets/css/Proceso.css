@@ -1,0 +1,67 @@
+.ErrorBody {
+    background-color: #5568f4;
+}
+.LinHome{
+    text-decoration-line: none;
+    cursor: default;
+}
+.ErrorBody button{
+    border: none;
+    margin-left: 89px;
+    border-radius: 0px 0px 21px 21px;
+}
+
+.ErrorBody button img{
+    margin-bottom: 7px;
+}
+
+.Master {
+    background: transparent url("../img/Grupo_2574.png") 0% 0% no-repeat
+    padding-box;
+    opacity: 1;
+}
+
+
+.Contenido{
+    background: transparent url("../img/Grupo_3456.png") 0% 0% no-repeat
+    padding-box;
+    background-repeat: repeat-x;
+    background-position: right 27px bottom -1px;
+    opacity: 1;
+    max-width: 600px;
+    margin-left: 54%;
+}
+
+.Contenido h1{
+    text-align: left;
+    letter-spacing: 3px;
+    color: #FFFFFF;
+    opacity: 1;
+    margin-left: 49px;
+    margin-top: -51px;
+    max-width: 484px;
+    font-size: 64px;
+    font-weight: 700;
+}
+
+.Contenido p{
+    max-width: 467px;
+    margin-left: 58px;
+    margin-top: 32px;
+    text-align: left;
+    letter-spacing: 1px;
+    color: #D6DBFF;
+    opacity: 1;
+    font-size: 19px;
+    font-family: 'Open Sans', sans-serif;
+}
+.Img2623{
+    position: absolute;
+    margin-top: 55px;
+    margin-left: 76px;
+}
+.Img3455{
+    background: transparent;
+    margin-left: 267px;
+    margin-top: -11px;
+}

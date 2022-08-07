@@ -1,0 +1,89 @@
+.Section1{
+    min-height: 52em;
+}
+.Section1 .Padre h1 {
+    font-family: "Inter", sans-serif;
+    text-align: center;
+    letter-spacing: 1px;
+    color: #4D4D4D;
+    opacity: 1;
+    margin-top: 88px;
+    margin-bottom: 8px;
+    font-size: 51px;
+}
+.Section1 .Padre h5 {
+    color: var(--unnamed-color-4d4d4d);
+    text-align: center;
+    letter-spacing: 0px;
+    color: #4D4D4D;
+    opacity: 1;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+.Section1 .Padre img {
+  position: ABSOLUTE;
+  left: 47px;
+  top: 689px;
+}
+.Section1  .Padre button{
+    font-family: "Inter", sans-serif;
+    border-radius: 16px 16px 0px 0px;
+    min-width: 249px;
+    margin-left: -25px;
+    margin-top: -6px;
+    min-height: 45px;
+    border: none;
+    background: #999999;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    letter-spacing: 2px;
+}
+.CajaDiv{
+    background-color: #F4F4F4;
+    margin-left: -26px;
+    min-height: 533px;
+    border-radius: 5px;
+}
+.Sec1Sun h3{
+    font-family: "Inter", sans-serif;
+    color: #999999;
+    margin-top: 87px;
+    margin-left: 16px;
+}
+.Sec1Sun h3 span{
+    margin-top: 1px;
+}
+.Sec1Sun .DivTex{
+    color: #999999;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 31px;
+    margin-left: 16px;
+}
+.Sec1Sun button{
+    text-align: center;
+    min-width: 306px;
+    min-height: 44px;
+    border-radius: 24px;
+    border: none;
+    background: #5568F4;
+    opacity: 1;
+    margin-left: 19px;
+    margin-top: 21px;
+}
+.Sec1Sun button span{
+    font-family: 'Open Sans', sans-serif;
+    color: #FFFFFF;
+    opacity: 1;
+}
+.Sec1Sun div .Img7866{
+    position: absolute;
+    margin-left: 47px;
+    margin-top: 11px;
+}
+.Sec1Sun div .Img3327{
+    position: absolute;
+    margin-left: 258px;
+    margin-top: -11px;
+
+}

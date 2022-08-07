@@ -1,0 +1,33 @@
+.Section2 {
+  min-height: 2em;
+  background: #f7f7f7;
+  margin-top: -65px;
+}
+.Sectio2cO {
+  margin-top: 36px;
+  text-align: center;
+}
+.Section2 .Img2103 {
+  position: absolute;
+  margin-left: 78px;
+}
+.Section2 h1 {
+  color: #4d4d4d;
+  opacity: 1;
+  letter-spacing: 1px;
+  font-weight: 650;
+  font-family: "Inter", sans-serif;
+}
+.Section2 .h5 {
+    letter-spacing: 2px;
+    color: #4d4d4d;
+    margin-top: 34px;
+    opacity: 1;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+}
+.Contenedor{
+    max-width: 1177px;
+    margin-inline: auto;
+    margin-top: 3em;
+}

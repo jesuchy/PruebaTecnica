@@ -1,0 +1,73 @@
+.Section3 h1{
+  font-family: "Inter", sans-serif;
+  text-align: center;
+  color: #4D4D4D;
+  opacity: 1;
+  font-size: 51px;
+  letter-spacing: 1px;
+  margin-top: 49px;
+}
+
+.Img2128{
+    position: absolute;
+    margin-left: 74px;
+    max-width: 165px;
+    margin-top: -134px; 
+}
+.Img2137{
+    position: absolute;
+    right: 88px;
+    margin-top: -119px;
+}
+.Expesifico{
+    margin-top: 71px;
+    text-align: center;
+}
+.Expesifico button{
+    border: none;
+    background: #797979;
+    min-width: 269px;
+    min-height: 49px;
+    border-radius: 23px 23px 0px 1px;
+}
+.Expesifico button span{
+    color: #FFFFFF;
+    font-size: 20px;
+    font-family: "Inter", sans-serif;
+}
+.Expesifico .Back .Tamaño{
+    margin-inline: auto;
+    margin-top: 14px;
+    min-width: 303px;
+}
+.Expesifico .Back{
+    background-color: #F4F4F4;
+    width: 343px;
+    min-height: 1364px;
+    border-radius: 16px;
+    opacity: 1;
+}
+.Ts{
+    text-align: center;
+}
+.EspacioSp{
+    margin-top: 1em;
+}
+.Back div{
+    margin-top: 1em;
+}
+.Img222{
+    margin-top: 16px;
+}
+.ImgBra{
+    position: absolute;
+    right: 0px;
+    top: 3404px;
+}
+/* .bacgroup{
+   
+  background: transparent url("../img/Grupo_2223.png") 0% 0% no-repeat
+    padding-box;
+  background-position: center center;
+  opacity: 1;
+} */

@@ -1,0 +1,16 @@
+.BtnBlocHeader{
+    background: white;
+    min-width: 165px;
+    min-height: 65px;
+    position: absolute;
+    top: 45px;
+    color: #5568F4;
+    border-radius: 0px 15px 15px 0px;
+}
+
+.BtnBlocHeader span{
+    font-size: 39px;
+    margin-left: 41px;
+    margin-top: 15px;
+    font-weight: 700;
+}

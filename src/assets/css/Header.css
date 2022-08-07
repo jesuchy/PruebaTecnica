@@ -1,0 +1,122 @@
+.Header {
+  /* Layout Properties */
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 692px;
+  /* UI Properties */
+  background: var(--unnamed-color-5568f4) 0% 0% no-repeat padding-box;
+  background: #5568f4 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+.SubHeader {
+  /* Layout Properties */
+  top: 0.0000457763671875px;
+  left: 0px;
+  width: 100%;
+  height: 468px;
+
+  /* UI Properties */
+  background: transparent url("../img/Grupo_2046.png") 0% 0% no-repeat
+    padding-box;
+  background-position: center center;
+  opacity: 1;
+}
+
+.Icono {
+  /* Layout Properties */
+  margin-inline: auto;
+  top: 52px;
+  left: 439px;
+  width: 399px;
+  height: 241px;
+  background: #5568f4;
+  /* UI Properties */
+  background: transparent url("../img/Grupo_2000.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+  position: absolute;
+  top: 50px;
+}
+
+.BotonInicio {
+  cursor: default;
+  border: 1px solid transparent;
+  border-radius: 12px;
+  min-width: 46em;
+  min-height: 50px;
+  position: absolute;
+  top: 330px;
+  left: 289px;
+  background-color: #b5daef61;
+  cursor: default;
+}
+
+.BotonInicio span {
+  font-family: "Open Sans", sans-serif;
+  font-family: "Prompt", sans-serif;
+  letter-spacing: 2px;
+  font-weight: 750;
+  font-size: 26px;
+  color: #ffffff;
+}
+
+.ImgQuien {
+  position: absolute;
+  top: 13em;
+  left: 138px;
+}
+.TexHeaderCont {
+  color: #ffff;
+  position: absolute;
+  top: 407px;
+  left: 120px;
+  text-align: center;
+}
+.SubTi {
+  font-size: 22px;
+  margin-right: 47px;
+  font-weight: 700;
+
+  letter-spacing: 0px;
+}
+.SubTi2 {
+    margin-top: 17px;
+    font-size: 18px;
+    letter-spacing: 1px;
+  }
+.SubTi2 span b{
+    margin-left: 3px;
+}
+.BtnHeader{ 
+    color: #FFFFFF;
+    background: #fb4f4f;
+    border: transparent;
+    border-radius: 33px;
+    min-width: 360px;
+    min-height: 50px;
+    margin-top: 18px;
+    font-weight: 700;
+    font-size: 20px;
+    box-shadow: 1px 1px 15px #fb6767;
+    cursor: default;
+}
+
+.BtnBajar{
+   cursor: pointer; 
+   margin-top: 34px;
+}
+
+.ImgMasNo{
+    max-width: 19em;
+    position: absolute;
+    top: 93px;
+    right: 72px;
+}
+
+.ImgFinalHeader{
+  max-height: 11px; 
+}
+.ImgFinalHeader img{
+  margin-top: -2em ;
+}

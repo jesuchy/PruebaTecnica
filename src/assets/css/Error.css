@@ -1,0 +1,95 @@
+.ErrorCon{
+    background-color: #1a2ec4;
+}
+.Icon{
+    border: none;
+    margin-left: 89px;
+    border-radius: 0px 0px 21px 21px;
+}
+.BacGra{
+    background: transparent url("../img/Grupo_2535.png") 0% 0% no-repeat
+    padding-box;
+    background-position: left 0px bottom 0px;
+}
+.Img3453{
+    margin-left: -119px;
+}
+.TextError404{
+    font-size: 168px;
+    font-family: 'Mukta', sans-serif;
+    letter-spacing: 3px;
+    font-weight: 700;
+    color: #FFFFFF;
+    max-width: 824px;
+    position: absolute;
+    right: 116px;
+    top: 139px;
+}
+.TextError404 span{
+    -webkit-text-stroke: 1px #FFFFFF;
+    color: transparent;
+}
+.Conf{
+    position: absolute;
+    right: 117px;
+    margin-top: 252px;
+    max-width: 729px;
+    min-width: 729px;
+    
+}
+.AlguiS{
+    background: #7C8BF7;
+    min-width: 100%;
+    border-radius: 12px;
+    border: none;
+    min-height: 52px;
+}
+.AlguiS span{
+    color: #FFFFFF;
+    font-family: "Inter", sans-serif;
+    font-size: 28px;
+    letter-spacing: 3px;
+}
+.Conf p{
+    text-align: left;
+    letter-spacing: 1px;
+    color: #D6DBFF;
+    opacity: 1;
+    margin-top: 24px;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+}
+.BtnSalir{
+    min-width: 100%;
+}
+.BtnSalir button{
+    background: #FF3B67 0% 0% no-repeat padding-box;
+    box-shadow: 0px 0px 14px #ff6464fa;
+    border-radius: 48px;
+    opacity: 1;
+    border: none;
+    margin-left: 278px;
+    margin-top: 39px;
+    min-width: 326px;
+    min-height: 52px;
+}
+.BtnSalir button span{
+    text-align: center;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-family: "Inter", sans-serif;
+    opacity: 1;
+}
+.Img0357{
+    position: absolute;
+    right: 83px;
+    margin-top: -27px;
+    max-height: 95px;
+}
+.Img3454{
+    position: absolute;
+    right: 169px;
+    margin-top: 51px;
+    max-width: 223px;
+}

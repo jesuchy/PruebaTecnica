@@ -1,0 +1,138 @@
+.Footer {
+  background-color: #5568f4;
+}
+.COL1 {
+  border-right: 1px solid #ffffff;
+  position: absolute;
+  min-width: 31%;
+  min-height: 354px;
+  text-align: center;
+  margin-top: 67px;
+}
+
+.COL1 img {
+    position: absolute;
+    left: 51px;
+    margin-top: 46px;   
+}
+.COL2 .Text1 {
+  margin-top: 60px;
+  font-size: 25px;
+  text-align: left;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+.Img0989009 {
+  max-width: 236px;
+  position: absolute;
+  margin-top: 8px;
+  margin-left: 51px;
+}
+.Span{
+    text-decoration-line: underline;
+    color: #ffffff;
+    font-size: 16px;
+    margin-top: 39px;
+}
+.Img2499{
+    margin-left: 5px;
+    min-height: 17px;
+    margin-bottom: 8px;
+}
+.Img454435{
+    position: absolute;
+    margin-top: 8px;
+    margin-left: 4px;
+}
+.Img9878{
+    position: absolute;
+    margin-left: 187px;
+    min-width: 144px;
+}
+.COL2 .Text2 {
+    margin-top: 25  px;
+    font-size: 25px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #ffffff;
+    opacity: 1;
+  }
+.Img1{
+    max-width: 71px;
+}
+.Img2{
+    max-width: 71px;
+}
+.Img3{
+    max-width: 71px; 
+}
+.Img4{
+    POSITION: ABSOLUTE;
+    margin-left: 10px;
+    max-width: 238px;
+}
+.COL3 form{
+    background-color: #4859D2;
+    margin-top: 20px;
+    border-radius: 28px 28px 0px 0px;
+    max-width: 359px;
+    min-height: 449px;
+    margin-inline: auto;
+}
+.COL3 form h5{
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 23px;
+    margin-top: 9px;
+}
+.COL3 form .T{
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 15px;
+    margin-top: 18px;
+}
+.COL3 form .Campos{
+    text-align: center;
+    background: #D6DBFF;
+    border: none;
+    border-radius: 13px;
+    min-width: 308px;
+    min-height: 43px;
+    margin-left: 29px;
+    margin-top: 25px;
+}
+.InforForm{
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 33px;
+}
+.InforForm .Chek{
+    position: absolute;
+    min-width: 24px;
+    min-height: 24px;
+    background: white;
+    margin-left: -148px;
+    margin-top: 11px;
+}
+.InforForm p{
+    max-width: 274px;
+    margin-left: 72px;
+    font-size: 15px;
+    text-align: initial;
+}
+.ButonFor{
+    background: #FF3B67 0% 0% no-repeat padding-box;
+    box-shadow: 0px 0px 14px #ff6464fa;
+    border-radius: 48px;
+    opacity: 1;
+    border: none;
+    text-align: center;
+    min-width: 294px;
+    min-height: 43px;
+    margin-top: 17px;
+    margin-left: 42px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}

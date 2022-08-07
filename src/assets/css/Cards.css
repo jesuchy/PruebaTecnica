@@ -1,0 +1,23 @@
+.Tamaño {
+  width: 279px;
+  box-shadow: 0px 0px 14px #0000007c;
+  border-radius: 16px;
+  opacity: 1;
+}
+.card-body h5 {
+  text-align: center;
+  letter-spacing: 0px;
+  color: #999999;
+  opacity: 1;
+  font-family: "Inter", sans-serif;
+  font-size: 17px;
+  letter-spacing: 1px;
+}
+.card-body p{
+    color: #999999;
+    margin-top: 24px;
+    max-width: 203px;
+    margin-inline: auto;
+    font-size: 15.5px;
+
+}
